@@ -1,1 +1,0 @@
-Theme: Jekyll Theme Serial Programmer by [raj](https://github.com/sharadcodes)
